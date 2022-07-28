@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T15:29:55Z" name="Default suite" finished-at="2022-07-28T15:30:33Z" duration-ms="37735">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T15:29:55Z" name="Default test" finished-at="2022-07-28T15:30:33Z" duration-ms="37735">
+      <class name="IRCTC_TestCase.Login_Page">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:IRCTC_TestCase.Login_Page@327bcebd]" started-at="2022-07-28T15:29:56Z" name="Driver" finished-at="2022-07-28T15:29:59Z" duration-ms="3281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method signature="NewUser_Registration()[pri:0, instance:IRCTC_TestCase.Login_Page@327bcebd]" started-at="2022-07-28T15:29:59Z" name="NewUser_Registration" finished-at="2022-07-28T15:30:33Z" duration-ms="34431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewUser_Registration -->
+      </class> <!-- IRCTC_TestCase.Login_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
